@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1b5a3b-9473-4b13-8519-15aba85b8f07" name="Default Changelist" comment="秒杀本地">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1e1b5a3b-9473-4b13-8519-15aba85b8f07" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -391,12 +389,20 @@
       <workItem from="1594371541610" duration="596000" />
       <workItem from="1594802200909" duration="597000" />
       <workItem from="1594858008252" duration="1278000" />
-      <workItem from="1594860557895" duration="1210000" />
+      <workItem from="1594860557895" duration="2021000" />
     </task>
+    <task id="LOCAL-00001" summary="秒杀本地">
+      <created>1594861926403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594861926403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135778000" />
+    <option name="totallyTimeSpent" value="136589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,7 +414,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989059" visible="true" weight="0.1505295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -432,7 +438,7 @@
       <window_info anchor="bottom" id="Problems" order="11" weight="0.3289689" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32786885" />
       <window_info anchor="bottom" id="Messages" order="15" visible="true" weight="0.3285968" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
